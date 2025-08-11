@@ -1,4 +1,4 @@
-# 📊 Data Analytics & Power BI Portfolio - Xema Sancho
+# 📊 Data Analytics & Power BI Portfolio
 
 Welcome to my main Data Analytics portfolio repository.  
 Here you will find my projects showcasing dashboards, data models, and analytics solutions built with **Power BI**, **SQL**, and **Python**.
@@ -12,10 +12,6 @@ I am a **Data Analyst & Power BI Specialist (Microsoft Certified: PL-300)** with
 - Developing ETL processes and data pipelines
 - Working with SQL, Azure Data Lake, and Python
 
-📧 Email: xemasancho@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/jose-maria-sancho-navarro/)  
-🔗 [Portfolio](https://linktr.ee/xemasancho)  
-
 ---
 
 ## 📂 Projects Overview
@@ -26,6 +22,12 @@ I am a **Data Analyst & Power BI Specialist (Microsoft Certified: PL-300)** with
 | [📈 AdvendutreWorks Sales Analysis](https://github.com/s-xema/AdventureWorks_Analysis) | End-to-end sales analytic report based on AdventureWorks database. | Power BI, Power Query, PostgreSQL | DB, Data Filtering, Data Cleaning, Data Modeling, DAX | 
 | [:rocket: FP20 6th Analytic Challenge](https://github.com/s-xema/FP20_6Challenge_Project) | Restaurant Food Delivery Analysis. | Power BI, Power Query, csv | Insights, KPI's
 
+---
+
+## Contact: Xema Sancho
+📧 Email: xemasancho@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/jose-maria-sancho-navarro/)  
+🔗 [Portfolio](https://linktr.ee/xemasancho)  
 
 ---
 
