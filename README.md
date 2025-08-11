@@ -1,18 +1,10 @@
-# 📊 Data Analytics & Power BI Portfolio
+# 📊 Data Analytics & Power BI Pojects
 
-Welcome to my main Data Analytics portfolio repository.  
-Here you will find my projects showcasing dashboards, data models, and analytics solutions built with **Power BI**, **SQL**, and **Python**.
-
----
-
-## 🚀 About Me
-I am a **Data Analyst & Power BI Specialist (Microsoft Certified: PL-300)** with expertise in:
-- Building interactive dashboards
-- Designing complex data models
-- Developing ETL processes and data pipelines
-- Working with SQL, Azure Data Lake, and Python
+Welcome to my personal portfolio repository.  
+Here you will find Here you will find a collection of projects and dashboards that demonstrate my skills and expertise in data transformation, data modeling, data visualization, business intelligence, and analytics.
 
 ---
+
 
 ## 📂 Projects Overview
 
@@ -24,30 +16,25 @@ I am a **Data Analyst & Power BI Specialist (Microsoft Certified: PL-300)** with
 
 ---
 
-## Contact: Xema Sancho
+## 🚀 About Me
+I am a **Data Analyst & Power BI Specialist (Microsoft Certified: PL-300)** with expertise in:
+- Building interactive dashboards
+- Designing complex data models
+- Developing ETL processes and data pipelines
+- Working with SQL, Azure Data Lake, and Python
+
+
+---
+
+## 📫 Contact:
 📧 Email: xemasancho@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/jose-maria-sancho-navarro/)  
 🔗 [Portfolio](https://linktr.ee/xemasancho)  
 
 ---
-
-## 🛠 Tools & Technologies
-- **Data Visualization**: Power BI, Metabase  
-- **ETL & Data Engineering**: Pentaho, Apache Hop, Microsoft Fabric, Apache Airflow  
-- **Databases**: SQL Server, PostgreSQL, MySQL  
-- **Programming**: Python (Pandas, NumPy, scikit-learn)  
-
----
-
-## 📌 How to Explore
-Click on any project link in the table above to access:
-- Source files (PBIX, SQL scripts, Python notebooks)
-- Data model descriptions
-- Preview images of the dashboards
-
----
-
 ## 📄 License
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Due to the extensive time invested in projects development and in consideration of privacy concerns, some PBIX files are currently not publicly accessible on GitHub. Should anyone have an interest in obtaining access to the code, please do not hesitate to contact me directly. Your understanding is greatly appreciated. Thank you
+
+
 
 
