@@ -27,7 +27,7 @@ I am a **Data Analyst & Power BI Specialist (Microsoft Certified: PL-300)** with
 ---
 
 ## 📫 Contact:
-📧 Email: xemasancho@gmail.com  
+📧 xemasancho@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/jose-maria-sancho-navarro/)  
 🔗 [Portfolio](https://linktr.ee/xemasancho)  
 
