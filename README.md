@@ -1,40 +1,64 @@
-# 📊 Data Analytics & Power BI Pojects
+# 📊 Data Analytics & Power BI Portfolio
 
-Welcome to my personal portfolio repository.  
-Here you will find Here you will find a collection of projects and dashboards that demonstrate my skills and expertise in data transformation, data modeling, data visualization, business intelligence, and analytics.
+> A curated collection of end-to-end analytics projects showcasing data modeling,
+> ETL pipelines, DAX development and interactive dashboard design.
 
----
+**Xema Sancho** · Data Analyst · Microsoft Certified Power BI PL-300
 
-
-## 📂 Projects Overview
-
-| Project | Description | Technologies | Key Concepts |
-|---------|-------------|--------------|--------------|
-| [🌍 Spanish Electricity System Analysis](https://github.com/s-xema/SEE_Analysis) | Interactive dashboard analyzing the Spanish Electricity System. | Power BI, Microsoft Fabric, SQL | API, Data Warehouse, Data Modeling, MultiLingual report | 
-| [📈 AdvendutreWorks Sales Analysis](https://github.com/s-xema/AdventureWorks_Analysis) | End-to-end sales analytic report based on AdventureWorks database. | Power BI, Power Query, PostgreSQL | DB, Data Filtering, Data Cleaning, Data Modeling, DAX | 
-| [:rocket: FP20 6th Analytic Challenge](https://github.com/s-xema/FP20_6Challenge_Project) | Restaurant Food Delivery Analysis. | Power BI, Power Query, csv | Insights, KPI's
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
 
 ---
 
-## 🚀 About Me
-I am a **Data Analyst & Power BI Specialist (Microsoft Certified: PL-300)** with expertise in:
-- Building interactive dashboards
-- Designing complex data models
-- Developing ETL processes and data pipelines
-- Working with SQL, Azure Data Lake, and Python
+## 📂 Projects
 
+### ⚡ [Spanish Electricity System Analysis](https://github.com/s-xema/SEE_Analysis)
+> Analysis of Spain's national electricity grid — demand, pricing and generation breakdown.
+
+- 🔌 Live data ingestion via REE API
+- 🏗️ Data Warehouse built on Microsoft Fabric
+- 🌐 Multilingual Power BI report (ES / EN)
+- 📐 Star schema data model
+
+**Stack:** Power BI · Microsoft Fabric · SQL · REST API
+
+---
+
+### 🛒 [AdventureWorks Sales Analysis](https://github.com/s-xema/AdventureWorks_Analysis)
+> End-to-end sales analytics report built on the AdventureWorks relational database.
+
+- 🧹 Data cleaning and transformation with Power Query
+- 📐 Relational data model from PostgreSQL source
+- 📊 Sales KPIs: revenue, margin, top products, regional performance
+- ⚙️ Advanced DAX measures for YoY, MTD and running totals
+
+**Stack:** Power BI · Power Query · PostgreSQL · DAX
 
 ---
 
-## 📫 Contact:
-📧 xemasancho@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/jose-maria-sancho-navarro/)  
-🔗 [Portfolio](https://linktr.ee/xemasancho)  
+### 🍕 [Restaurant Food Delivery Analysis](https://github.com/s-xema/FP20_6Challenge_Project)
+> Competitive entry for the FP20 Analytics 6th Challenge — food delivery operations dashboard.
+
+- 🏆 FP20 Analytics Challenge submission
+- 📦 Order volume, delivery time and customer satisfaction KPIs
+- 🔍 Drill-through analysis by restaurant, region and time period
+
+**Stack:** Power BI · Power Query · CSV
 
 ---
-## 📄 License
-Due to the extensive time invested in projects development and in consideration of privacy concerns, some PBIX files are currently not publicly accessible on GitHub. Should anyone have an interest in obtaining access to the code, please do not hesitate to contact me directly. Your understanding is greatly appreciated. Thank you
 
+## 🔒 Note on PBIX Files
 
+Due to the time invested in development and privacy considerations, some `.pbix` files
+are not publicly available. If you'd like access or have questions about any project,
+feel free to reach out directly.
 
+---
 
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-maria-sancho-navarro/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/xemasancho)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xemasancho@gmail.com)
