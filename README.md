@@ -62,19 +62,6 @@
 
 ---
 
-### 🍺 [ZetaBeer Analytics](https://github.com/s-xema/ZetaBeer_Analytics)
-> End-to-end BI solution for a craft brewery — real production data covering the full supply chain from raw materials to invoicing.
-
-- 🏭 Full supply chain visibility: production, stock and billing in a single model
-- 📐 Star schema with 3 fact tables and shared dimensions
-- ⚙️ 82 DAX measures across 10 folders — margin, yield, cost and forecasting
-- 🎛️ What-if scenario simulation: price, demand and cost sliders
-- 🔧 ETL from SQL Server via parametrised Power Query connection
-- 📁 `.pbip` format — TMDL folder structure, fully versionable in Git
-
-**Stack:** Power BI · Power Query · SQL Server · DAX · TMDL
-
----
 
 ## 🔒 Note on PBIX Files
 Due to the time invested in development and privacy considerations, some `.pbix` files
